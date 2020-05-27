@@ -1,0 +1,13 @@
+{
+  "yggdrasil.keybind.spell": "Cast Spell",
+  "yggdrasil.keybind.wordBase1": "Basic Word 1",
+  "yggdrasil.keybind.wordBase2": "Basic Word 2",
+  "yggdrasil.keybind.wordBase3": "Basic Word 3",
+  "yggdrasil.keybind.wordTrait1": "Traitline Word 1",
+  "yggdrasil.keybind.wordTrait2": "Traitline Word 2",
+  "yggdrasil.keybind.wordTrait3": "Traitline Word 3",
+  "yggdrasil.keybind.wordTrait4": "Traitline Word 4",
+  "yggdrasil.keybind.wordTrait5": "Traitline Word 5",
+
+  "death.attack.yggdrasilSpirit": "%1$s's spirit was broken by %2$s!"
+}

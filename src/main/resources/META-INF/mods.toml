@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+#issueTrackerURL="github.com/Krynox/yggdrasil/issues"
+showAsResourcePack=false
+
+[[mods]]
+  modId="yggdrasil"
+  version="${file.jarVersion}"
+  displayName="Yggdrasil"
+  #updateJSONURL=""
+  #displayURL=""
+  #logoFile=""
+  credits=""
+  authors="Krynox"
+  description='''
+  A magic mod loosely inspired by the text editor vim. Do with that what you will.
+  '''
+
+  [[dependencies.examplemod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[31.1.19,)"
+    ordering="NONE"
+    side="BOTH"
